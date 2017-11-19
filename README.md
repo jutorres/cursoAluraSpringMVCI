@@ -1,4 +1,4 @@
-# Curso de Spring MVCI: Criando aplicações web
+# Curso de "Spring MVCI: Criando aplicações web" da Alura
 
 Este curso abordou os seguintes tópicos:
 
